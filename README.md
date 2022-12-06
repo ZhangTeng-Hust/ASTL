@@ -15,7 +15,16 @@ An active semi-supervised transfer learning method (ASTL) is proposed by integra
 </div>
 
 ### Results
+The relationship between the predicted and actual values of each dimension is represented as follows.
+<div align=center>
+<img src=https://github.com/ZhangTeng-Hust/ASTL/blob/main/IMG/result1.png>
+</div>
 
+The results of the frequency histograms of the position and orientation errors before and after compensation are compared as follows.
+<div align=center>
+<img src=https://github.com/ZhangTeng-Hust/ASTL/blob/main/IMG/result2.png>
+<img src=https://github.com/ZhangTeng-Hust/ASTL/blob/main/IMG/result3.png>
+</div>
 
 ### Special Reminder
 No reproduction without permission！！！
