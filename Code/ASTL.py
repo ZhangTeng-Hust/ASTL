@@ -5,7 +5,7 @@
 # @Software: PyCharm
 
 
-# 不同主动学习策略依赖头文件
+
 import MGS
 import numpy as np
 import pandas as pd
