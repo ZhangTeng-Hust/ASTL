@@ -34,4 +34,4 @@ This work is currently being submitted to Elsevier, so no individual or organiza
 ## Citation Notes
 If you would like to use some or all of the data in this repository, please cite our dataset and we will also be adding a citation format for articles subsequently.
 ### Dataset
-Zhang, Teng; Peng, Fangyu; Tang, Xiaowei; Yan, Rong; Zhang, Chi; Deng, Runpeng (2023), “HUST_NC_Robot”, Mendeley Data, V1, doi: 10.17632/srxktn4752.1
+Zhang, Teng; Peng, Fangyu; Tang, Xiaowei; Yan, Rong; Zhang, Chi; Deng, Runpeng (2023), “HUST_NC_Robot”, Mendeley Data, V1, doi: 10.17632/srxktn4752.1 (https://data.mendeley.com/datasets/srxktn4752)
