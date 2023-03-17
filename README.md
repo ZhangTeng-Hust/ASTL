@@ -22,7 +22,7 @@ The relationship between the predicted and actual values of each dimension is re
 
 The results of the frequency histograms of the position and orientation errors before and after compensation are compared as follows.
 <div align=center>
-<img src=https://github.com/ZhangTeng-Hust/ASTL/blob/main/IMG/Result2.png>
+<img src=https://github.com/ZhangTeng-Hust/ASTL/blob/main/IMG/Resul2.png>
 <img src=https://github.com/ZhangTeng-Hust/ASTL/blob/main/IMG/Result3.png>
 </div>
 
