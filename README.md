@@ -35,3 +35,9 @@ This work is currently being submitted to Elsevier, so no individual or organiza
 If you would like to use some or all of the data in this repository, please cite our dataset and we will also be adding a citation format for articles subsequently.
 ### Dataset
 Zhang, Teng; Peng, Fangyu; Tang, Xiaowei; Yan, Rong; Zhang, Chi; Deng, Runpeng (2023), “HUST_NC_Robot”, Mendeley Data, V1, doi: 10.17632/srxktn4752.1 (https://data.mendeley.com/datasets/srxktn4752)
+
+## Adding Note
+It is a great pleasure to say that this work has been published online on November 27th in the journal EAAI (Engineering Applications of Artificial Intelligence). The link to the original article is below:
+https://www.sciencedirect.com/science/article/pii/S0952197623016603
+
+You can contact me with any questions (zhangteng.hust@gmail.com)
